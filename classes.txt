@@ -1,2 +1,0 @@
-Features (classes) yet to be implemented:
--DL model to identify litter
